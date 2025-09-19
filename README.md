@@ -1,9 +1,9 @@
-\[!\[Open in MATLAB Online] https://matlab.mathworks.com/open/github/v1?repo=bias8/Practica0MSF
+https://matlab.mathworks.com/open/github/v1?repo=bias8/Practica0MSF
 
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Infromación de la estudiante
-Nombre Apellido \[No control]: Bricia Idalia Arellano Salones \[22211746]; L22211746@tectijuana.edu.mx
+Bricia Idalia Arellano Salones \[22211746]; L22211746@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
